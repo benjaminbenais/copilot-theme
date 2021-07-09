@@ -1,0 +1,34 @@
+{
+  "name": "copilot-theme",
+  "displayName": "Copilot Theme",
+  "description": "A VSCode implementation of the theme displayed on Github Copilot website.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "publisher": "benjaminbenais",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Copilot",
+    "Github Copilot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjaminbenais/copilot-theme"
+  },
+  "icon": "theme-icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Copilot Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Copilot Theme-color-theme.json"
+      }
+    ]
+  }
+}
