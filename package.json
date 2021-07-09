@@ -2,7 +2,7 @@
   "name": "copilot-theme",
   "displayName": "Copilot Theme",
   "description": "A VSCode implementation of the theme displayed on Github Copilot website.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "engines": {
     "vscode": "^1.57.0"
