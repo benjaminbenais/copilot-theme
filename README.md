@@ -8,8 +8,6 @@ This theme is still in progress. Feel free to open a pull request if you notice 
 
 Font used: [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
-<br>
-
 ### Screenshots:
 
 Typescript
