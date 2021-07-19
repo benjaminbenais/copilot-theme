@@ -79,8 +79,8 @@
   },
   "tokenColors": [
     {
-      "name": "New keyword",
-      "scope": ["keyword.operator.new"],
+      "name": "New keyword, logical operator keyword",
+      "scope": ["keyword.operator.new", "keyword.operator.logical"],
       "settings": {
         "foreground": "#ba8ef7"
       }
