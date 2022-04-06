@@ -4,7 +4,7 @@ A VSCode implementation of the theme displayed on [Github Copilot website](https
 
 ### Notes:
 
-This theme is still in progress. Feel free to open a pull request if you notice something wrong or would like to make a change.
+Feel free to open a pull request if you notice something wrong or would like to make a change.
 
 Font used: [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
