@@ -90,7 +90,7 @@
       "name": "Comment",
       "scope": ["comment"],
       "settings": {
-        "foreground": "#707a84"
+        "foreground": "#6A9955"
       }
     },
     {
@@ -243,7 +243,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#939da5"
+        "foreground": "#569CD6"
       }
     },
     {
