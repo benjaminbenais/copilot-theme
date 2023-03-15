@@ -614,6 +614,13 @@
       "settings": {
         "foreground": "#ba8ef7"
       }
+    },
+    {
+      "name": "Types",
+      "scope": ["entity.name.type"],
+      "settings": {
+        "foreground": "#89ddff"
+      }
     }
   ]
 }

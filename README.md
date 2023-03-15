@@ -2,9 +2,10 @@
 
 A VSCode implementation of the theme displayed on [Github Copilot website](https://copilot.github.com/).
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/BenjaminBenais.copilot-theme) [![Version](https://vsmarketplacebadge.apphb.com/version-short/BenjaminBenais.copilot-theme.svg)](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.copilot-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/BenjaminBenais.copilot-theme.svg)](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.copilot-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/BenjaminBenais.copilot-theme)[![Downloads](https://img.shields.io/visual-studio-marketplace/d/BenjaminBenais.copilot-theme.svg)](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.copilot-theme) ![Ratings](https://img.shields.io/visual-studio-marketplace/r/BenjaminBenais.copilot-theme.svg
+)
 
-### Notes:
+### Notes:[label](https://marketplace.visualstudio.com/items?itemName%3DBenjaminBenais.copilot-theme)
 
 Feel free to open a pull request if you notice something wrong or would like to make a change.
 
